@@ -1,0 +1,16 @@
+﻿{
+  "records": {
+    "01": {
+      "src": "Images",
+      "name": "sun1",
+      "hOffset": "250",
+      "alignment": "center"
+    },
+    "02": {
+      "src": "Images",
+      "name": "sun1",
+      "hOffset": "250",
+      "alignment": "center"
+    }
+  }
+}
